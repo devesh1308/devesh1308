@@ -4,154 +4,166 @@
 
 ### Full Stack Developer • AI Engineer • Electronics & Computer Engineering Student
 
-Building modern web applications and AI-powered solutions with a focus on performance, clean architecture, and real-world impact.
+Building scalable web applications, intelligent systems, and backend services with a focus on clean architecture and real-world impact.
 
-<p>
-  <a href="https://devesh-portfolio-phi.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/deveshpatel1308/">LinkedIn</a> •
-  <a href="mailto:pateldevesh138@gmail.com">Email</a>
-</p>
+**Mumbai, India**
+
+[Portfolio](https://devesh-portfolio-phi.vercel.app/) •
+[LinkedIn](https://www.linkedin.com/in/deveshpatel1308/) •
+[Email](mailto:pateldevesh138@gmail.com)
 
 </div>
 
 ---
 
-## 👋 About Me
+# About
 
-I'm an Electronics & Computer Engineering student passionate about software engineering, artificial intelligence, and backend systems.
+I'm an Electronics & Computer Engineering student passionate about software engineering, artificial intelligence, and building products that solve real-world problems.
 
-I enjoy building applications from idea to deployment while continuously learning modern technologies and software architecture.
+I enjoy taking ideas from concept to deployment while continuously improving my understanding of scalable systems, backend engineering, and modern web technologies.
 
-Currently, I'm focused on:
+My current interests include:
 
-- 🤖 AI & Machine Learning
-- 🌐 Full Stack Web Development
-- ⚙️ Backend Engineering
-- ☁️ Cloud & Deployment
-- 🚀 Building products that solve real problems
-
----
-
-# 🛠 Technical Arsenal
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
-
-</p>
-
-Building responsive, accessible and performant interfaces with modern frontend technologies.
+- Full Stack Development
+- Artificial Intelligence
+- Backend Engineering
+- System Design
+- Cloud Technologies
+- Developer Experience
 
 ---
 
-## Backend
+# Engineering Focus
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
-
-</p>
-
-Developing scalable APIs, authentication systems and backend services.
-
----
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,supabase" />
-
-</p>
-
-Experience designing relational and NoSQL databases for production applications.
+- Designing scalable full-stack applications
+- Building AI-powered solutions
+- REST API development with Node.js & FastAPI
+- Modern React & Next.js applications
+- Database design and optimization
+- Clean architecture and maintainable code
+- Performance-focused user experiences
 
 ---
 
-## Programming Languages
+# Technical Arsenal
 
-<p>
+### Frontend Engineering
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
+Building responsive, accessible and performant user interfaces.
 
-</p>
-
----
-
-## Tools & Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel,linux" />
-
-</p>
+`React`
+`Next.js`
+`TypeScript`
+`JavaScript`
+`Tailwind CSS`
+`HTML5`
+`CSS3`
 
 ---
 
-# 🚀 Featured Projects
+### Backend Engineering
 
-## 🕒 Technix
+Developing secure APIs and scalable backend systems.
 
-**Modern Timesheet & Workforce Management Platform**
+`Node.js`
+`Express`
+`FastAPI`
+`Python`
 
-A production-ready platform for employee attendance, project allocation, and work-hour management.
+---
 
-### Highlights
+### Database
+
+Designing relational and NoSQL databases.
+
+`MongoDB`
+`MySQL`
+`Firebase`
+`Supabase`
+`SQL`
+
+---
+
+### Programming Languages
+
+`Python`
+`Java`
+`C++`
+`JavaScript`
+`TypeScript`
+
+---
+
+### Tools & Platforms
+
+`Git`
+`GitHub`
+`Docker`
+`Postman`
+`VS Code`
+`Linux`
+`Vercel`
+
+---
+
+# Selected Projects
+
+## Technix
+
+A workforce management and timesheet platform built to simplify employee attendance, work logging, and project tracking through a clean and intuitive interface.
+
+**Highlights**
 
 - Employee Timesheet Management
-- Authentication System
+- Authentication & Role-based Access
 - Dashboard Analytics
 - Responsive UI
-- Team Workflow Management
+- Production Deployment
 
-**Live Demo**
+**Live**
 
-https://technix-timesheetapp.netlify.app/login
+🔗 https://technix-timesheetapp.netlify.app/login
 
 ---
 
-## 📺 Seattle Desi TV
+## Seattle Desi TV
 
-**Streaming Platform for Regional Entertainment**
+A modern streaming platform delivering regional entertainment with an intuitive viewing experience and optimized performance.
 
-A modern streaming platform delivering regional entertainment with an intuitive viewing experience.
-
-### Highlights
+**Highlights**
 
 - Responsive Design
-- Optimized Performance
+- Video Streaming Platform
 - Modern UI/UX
 - Production Deployment
 
-**Live Demo**
+**Live**
 
-https://seattle-desi-tv-psi.vercel.app/
+🔗 https://seattle-desi-tv-psi.vercel.app/
 
 ---
 
-## 📚 Jargon Translators
+## Jargon Translators
 
-A web application that converts technical terminology into simpler language, making information easier to understand.
+An application that translates technical and domain-specific terminology into language that is easier to understand, making information more accessible.
 
 **Repository**
 
-https://github.com/devesh1308/jargon-transaltors
+🔗 https://github.com/devesh1308/jargon-transaltors
 
 ---
 
-## 📅 Smart Timetable
+## Smart Timetable
 
-An intelligent scheduling application that automatically organizes academic timetables while reducing scheduling conflicts.
+An intelligent timetable management system that automates scheduling while minimizing conflicts and improving planning efficiency.
 
 **Repository**
 
-https://github.com/devesh1308/smart-timetable
+🔗 https://github.com/devesh1308/smart-timetable
 
 ---
 
-# 📖 Education
+# Education
 
 **Bachelor of Technology**
 
@@ -163,40 +175,46 @@ Shah & Anchor Kutchhi Engineering College
 
 ---
 
-# 🌱 Currently Learning
+# Currently Exploring
 
-- Advanced AI Engineering
-- FastAPI & Backend Architecture
+- Advanced Backend Architecture
+- Artificial Intelligence & Machine Learning
 - System Design
 - Cloud Computing
 - Scalable Distributed Systems
+- FastAPI Ecosystem
 
 ---
 
-# 📈 GitHub
+# GitHub Overview
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devesh1308&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh1308&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devesh1308&show_icons=true&hide_border=true&theme=github_dark"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh1308&layout=compact&hide_border=true&theme=github_dark"/>
 </p>
 
 ---
 
-## 🤝 Connect
+# Let's Connect
 
-- 🌐 Portfolio → https://devesh-portfolio-phi.vercel.app/
-- 💼 LinkedIn → https://www.linkedin.com/in/deveshpatel1308/
-- 📧 Email → pateldevesh138@gmail.com
+📧 **Email**
+
+pateldevesh138@gmail.com
+
+🌐 **Portfolio**
+
+https://devesh-portfolio-phi.vercel.app/
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/deveshpatel1308/
 
 ---
 
 <div align="center">
 
-**Thanks for stopping by!**
+Thank you for visiting my profile.
 
-I'm always interested in collaborating on innovative projects involving Full Stack Development, AI, and modern web technologies.
+I'm always interested in collaborating on projects involving Full Stack Development, Artificial Intelligence, and modern web technologies.
 
 </div>

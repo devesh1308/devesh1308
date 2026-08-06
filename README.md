@@ -98,8 +98,6 @@ Designing relational and NoSQL databases.
 
 `Git`
 `GitHub`
-`Docker`
-`Postman`
 `VS Code`
 `Linux`
 `Vercel`
@@ -186,14 +184,7 @@ Shah & Anchor Kutchhi Engineering College
 
 ---
 
-# GitHub Overview
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devesh1308&show_icons=true&hide_border=true&theme=github_dark"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh1308&layout=compact&hide_border=true&theme=github_dark"/>
-</p>
-
----
 
 # Let's Connect
 

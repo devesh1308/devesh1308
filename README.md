@@ -22,28 +22,6 @@ I'm an Electronics & Computer Engineering student passionate about software engi
 
 I enjoy taking ideas from concept to deployment while continuously improving my understanding of scalable systems, backend engineering, and modern web technologies.
 
-My current interests include:
-
-- Full Stack Development
-- Artificial Intelligence
-- Backend Engineering
-- System Design
-- Cloud Technologies
-- Developer Experience
-
----
-
-# Engineering Focus
-
-- Designing scalable full-stack applications
-- Building AI-powered solutions
-- REST API development with Node.js & FastAPI
-- Modern React & Next.js applications
-- Database design and optimization
-- Clean architecture and maintainable code
-- Performance-focused user experiences
-
----
 
 # Technical Arsenal
 
@@ -120,7 +98,7 @@ A workforce management and timesheet platform built to simplify employee attenda
 
 **Live**
 
-🔗 https://technix-timesheetapp.netlify.app/login
+🔗 https://technix-timesheet.vercel.app
 
 ---
 
@@ -169,18 +147,7 @@ Electronics & Computer Engineering
 
 Shah & Anchor Kutchhi Engineering College
 
-**CGPA:** **8.60 / 10**
-
----
-
-# Currently Exploring
-
-- Advanced Backend Architecture
-- Artificial Intelligence & Machine Learning
-- System Design
-- Cloud Computing
-- Scalable Distributed Systems
-- FastAPI Ecosystem
+**CGPA:** **8.76 / 10**
 
 ---
 
